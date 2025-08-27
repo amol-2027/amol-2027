@@ -31,17 +31,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-![Amol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amol-007&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amol-007&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amol-007&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Amol-007&theme=radical&margin-w=15&margin-h=15)  
 
 ---
 
