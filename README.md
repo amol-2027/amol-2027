@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amol Rathod  
 
 🎓 B.Tech Student at **GGSIPU** (IIoT branch)  
-💻 Passionate about **Frontend Development, IoT, and AI**  
+💻 Passionate about **Frontend Development, IoT, and Gen AI**  
 🚀 Exploring **Full Stack Development, LangChain, and AI-powered apps**  
 🌱 Currently learning **Next.js, Neon Database, Clerk Auth, and APIs (Google Gemini, OpenAI, etc.)**  
 💡 Open to collaborations on **web development, creative frontend projects, and AI-powered applications**  
