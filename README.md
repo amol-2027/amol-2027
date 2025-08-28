@@ -1,46 +1,83 @@
-# 👋 Hi, I’m Amol Rathod  
 
-🎓 B.Tech Student at **GGSIPU** (IIoT branch)  
-💻 Passionate about **Frontend Development, IoT, and Gen AI**  
-🚀 Exploring **Full Stack Development, LangChain, and AI-powered apps**  
+
+
+---
+
+# 👋 Hey there, I'm Amol Rathod  
+
+🎓 **B.Tech Student @ GGSIPU (IIoT Branch)**  
+💻 Passionate about **Frontend Development, IoT, and Generative AI**  
+🚀 Exploring **Full Stack Development, LangChain, and AI-powered Apps**  
 🌱 Currently learning **Next.js, Neon Database, Clerk Auth, and APIs (Google Gemini, OpenAI, etc.)**  
-💡 Open to collaborations on **web development, creative frontend projects, and AI-powered applications**  
+💡 Open to collaborations on **Web Development, Creative Frontend Projects, and AI-powered Applications**  
 
 ---
 
-## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+## 🚀 Tech Stack & Tools  
+
+<p align="center">
+  <!-- Core Skills -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,vscode" /><br/>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" /><br/>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://img.shields.io/badge/Neon%20DB-00E599?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+  <!-- Cloud & AI -->
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF5733?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
+## 🌟 What I Do  
+- 🖥️ Build **modern, responsive, and interactive frontends**  
+- 🤖 Experiment with **Generative AI, RAG pipelines, and LangChain apps**  
+- ⚡ Develop **IoT-inspired solutions** for real-world problems  
+- 📡 Explore **APIs, cloud integration, and scalable architectures**  
+
+---
 ## 📌 Featured Projects  
 
-🔹 **SensAI** – AI-powered productivity suite (Resume/Cover Letter Generator, AI Quiz Generator, Industry Insights, etc.)  
-🔹 **ChaturBot** – AI-powered virtual assistant built with Next.js + Gemini API  
-🔹 **GSAP Awwwards Webpage** – Modern animated website using **GSAP & Vite**  
 
-👉 Check out my repos to see more!  
+### 🤖 SensAI – AI-Powered Resume, Cover Letter & Quiz Generator  
+👉 A smart web app that helps users **generate resumes, cover letters, quizzes, and industry insights** using Generative AI.  
+👉 Built with **Next.js, Google Gemini API, NeonDB, and Clerk authentication**.  
+
+### 🎨 GSAP Awwwards Webpage Clone  
+👉 A **motion-heavy, award-style webpage** built with **GSAP animations & modern UI/UX** practices.  
+👉 Focused on smooth transitions, micro-interactions, and a visually stunning design.  
+
+### 🧠 A I Assistant – Personal Virtual Assistant  
+👉 An AI-powered full-stack app that lets users build customizable virtual assistants.  
+👉 Combines **NLP, multi-intent recognition, and personalization** to handle queries, searches, and utilities.  
+
+### 💬 ChaturBot – AI Chatbot
+👉 An **AI-powered chatbot** designed to answer queries, assist in tasks, and adapt to user preferences.  
+
+### 🌍 World Atlas React App  
+👉 An interactive React-based web app to explore and compare countries worldwide.  
+👉 Features **search, filters, dark mode, favorites, offline support, and interactive maps** for an engaging experience.  
+
+
+### Check out my repos to see more!  
+
+
 
 ---
 
-
-
----
-
-## 🌍 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/amol-rathod)  
-- 🐦 [Twitter/X](https://x.com/)  
-- 📫 Reach me at: **a,olr778899@gmail.com**  
+## 🤝 Let’s Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/amolrathod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:amolrathod@email.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AmolRathod"><img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-✨ *“Building innovative solutions that blend Web, IoT & AI for real-world impact.”*  
+✨ *“Code. Build. Innovate. Repeat.”*  
+
+
 
